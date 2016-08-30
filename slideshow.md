@@ -1,1 +1,0 @@
-* __full screen__ [buildinternet.com/project/supersized/](http://buildinternet.com/project/supersized/)
