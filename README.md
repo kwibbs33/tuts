@@ -1,5 +1,6 @@
 # tuts
 
+* [google schema](/google-schema/)
 * [javascript](/javascript/)
 * [json](/json/)
 * [scss](/scss/)
